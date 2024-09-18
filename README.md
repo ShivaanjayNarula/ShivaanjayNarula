@@ -1,4 +1,4 @@
-# Hi there 👋
+# 💫 About Me:
 
 # 👨‍💻 LeetCoder
 
