@@ -1,4 +1,4 @@
-# 👋 Hi, I am Shivaanjay Narula
+# 👋 Hi, I am Shivaanjay Narula!
 
 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
 
