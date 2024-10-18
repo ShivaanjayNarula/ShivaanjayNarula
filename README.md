@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/bc806ee3-a7d2-473a-83f2-f997236acbb7)
 
-
 # 👋 Hi, I am Shivaanjay Narula!
 
 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
@@ -63,11 +62,12 @@ X:             https://x.com/shivanjaynarula/
 ![](https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black)
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShivaanjayNarula&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 
 ### Thanks for stopping by! I’m always open to collaborating on exciting projects. Feel free to reach out!
 
