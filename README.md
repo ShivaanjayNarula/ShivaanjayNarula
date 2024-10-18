@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/bc806ee3-a7d2-473a-83f2-f997236acbb7)
+
+
 # 👋 Hi, I am Shivaanjay Narula!
 
 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
@@ -40,13 +43,25 @@ X:             https://x.com/shivanjaynarula/
 [![](https://visitcount.itsvg.in/api?id=ShivaanjayNarula&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaanjayNarula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -56,9 +71,6 @@ X:             https://x.com/shivanjaynarula/
 
 ### Thanks for stopping by! I’m always open to collaborating on exciting projects. Feel free to reach out!
 
-![download](https://user-images.githubusercontent.com/78000116/148719440-c8813954-1aa3-4105-b996-5dc506ae34ef.jpg)
-![download-1](https://user-images.githubusercontent.com/78000116/148719449-4b973812-0a2b-424a-82d6-12dc95a4d3fe.jpg)
-![download-2](https://user-images.githubusercontent.com/78000116/148719460-4cb94337-4e80-4f95-a27f-5573eb6d7c3c.jpg)
 <!--
 **Shivaanjay/Shivaanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
