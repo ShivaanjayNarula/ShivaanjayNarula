@@ -73,9 +73,10 @@ X:             https://x.com/shivanjaynarula/
 </div>
 <div align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ShivaanjayNarula&icon=0&color=0" height="40em" alt="Profile Visit Count"/>
+    <img src="https://visitcount.itsvg.in/api?id=ShivaanjayNarula&icon=0&color=0" height="35em" alt="Profile Visit Count"/>
   </a>
 </div>
+
 
 
 <!--
