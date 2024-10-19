@@ -1,9 +1,10 @@
-# 
+<!--# 
 
 ![image](https://github.com/user-attachments/assets/bc806ee3-a7d2-473a-83f2-f997236acbb7)
 
 #
 
+-->
 # 👋 Hi, I am Shivaanjay Narula!
 
 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
@@ -46,9 +47,10 @@ X:             https://x.com/shivanjaynarula/
 [![](https://visitcount.itsvg.in/api?id=ShivaanjayNarula&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
-<div align=center>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
+
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
@@ -56,7 +58,11 @@ X:             https://x.com/shivanjaynarula/
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="180em" alt="Commitments"/>
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Shivaanjay's GitHub Stats"/>
+</div>
 
+#
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=dark&hide_border=false)<br/>
