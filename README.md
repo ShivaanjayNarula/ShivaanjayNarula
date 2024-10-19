@@ -59,8 +59,9 @@ X:             https://x.com/shivanjaynarula/
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Shivaanjay's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="180em" alt="Shivaanjay's GitHub Stats"/>
 </div>
+
 
 #
 <!--
