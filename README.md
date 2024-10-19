@@ -71,7 +71,11 @@ X:             https://x.com/shivanjaynarula/
 ![](https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="180em" alt="GitHub Quotes"/>
+</div>
+
 
 <!--
 ### 🔝 Top Contributed Repo
