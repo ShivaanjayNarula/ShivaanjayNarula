@@ -70,7 +70,7 @@ X:             https://x.com/shivanjaynarula/
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="280em" alt="GitHub Quotes"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="200em" alt="GitHub Quotes"/>
 </div>
 <div align="right">
   <a href="https://visitcount.itsvg.in">
