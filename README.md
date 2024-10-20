@@ -54,6 +54,7 @@ X:             https://x.com/shivanjaynarula/
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="200em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Commitments"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200em" alt="Shivaanjay's GitHub Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true" height="200em" alt="Streak"/>
 </div>
 
 
