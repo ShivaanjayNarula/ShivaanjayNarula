@@ -44,9 +44,6 @@ X:             https://x.com/shivanjaynarula/
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img align = "center" src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" alt="Trophies"/>
-</div>
-<div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Repo Languages"/>
@@ -55,11 +52,9 @@ X:             https://x.com/shivanjaynarula/
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true" height="200em" alt="Streak"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Commitments"/>
 </div>
-
 <div align="center">
-  
+  <img align = "center" src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" alt="Trophies"/>
 </div>
-
 
 #
 <!--
