@@ -110,6 +110,12 @@ X:             https://x.com/shivanjaynarula/
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="200em" alt="GitHub Quotes"/>
 </div>
+<!--
+### Meme of the day
+<div>
+  <img src="https://memer-new.vercel.app/api?type=horizontal&theme=transparent" height="200em" alt="Meme">
+</div>
+-->
 <div align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ShivaanjayNarula&label=Profile%20Views&color=1&icon=0&pretty=false" height="35em" alt="Profile Visit Count"/>
