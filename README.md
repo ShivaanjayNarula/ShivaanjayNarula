@@ -108,7 +108,7 @@ X:             https://x.com/shivanjaynarula/
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="200em" alt="GitHub Quotes"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&no-bg=true" height="200em" alt="GitHub Quotes"/>
 </div>
 <!--
 ### Meme of the day
