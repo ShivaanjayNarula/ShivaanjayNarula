@@ -247,8 +247,6 @@ X:             https://x.com/shivanjaynarula/
 -->
 <h3 align="center">Thanks for stopping by! I’m always open to collaborating on exciting projects. Feel free to reach out!</h3>
 
-![Snake animation](https://raw.githubusercontent.com/ShivaanjayNarula/ShivaanjayNarula/output/github-contribution-grid-snake-dark.svg)
-
 <!--
 **Shivaanjay/Shivaanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
