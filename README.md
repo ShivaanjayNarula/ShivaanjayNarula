@@ -1,10 +1,3 @@
-<!--# 
-
-![image](https://github.com/user-attachments/assets/bc806ee3-a7d2-473a-83f2-f997236acbb7)
-
-#
-
--->
 # 👋 Hi, I am Shivaanjay Narula!
 
 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
@@ -38,30 +31,42 @@ X:             https://x.com/shivanjaynarula/
 
 # 💻 Tech Stack:
 
-<div>
-  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-  <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"></a>
-  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"></a>
-  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLflow"></a>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
-  <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>
-  <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-  <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"></a>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-  <a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
-</div>
+<table>
+  <tr>
+    <td><a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a></td>
+    <td><a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a></td>
+    <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a></td>
+    <td><a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"></a></td>
+    <td><a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"></a></td>
+    <td><a href="https://mlflow.org/"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLflow"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a></td>
+    <td><a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a></td>
+    <td><a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a></td>
+    <td><a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></a></td>
+    <td><a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a></td>
+    <td><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a></td>
+    <td><a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a></td>
+    <td><a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"></a></td>
+    <td><a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a></td>
+    <td><a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a></td>
+    <td><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a></td>
+    <td><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
+    <td><a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
 
 <!--<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
@@ -83,17 +88,43 @@ X:             https://x.com/shivanjaynarula/
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="200em" alt="Time Graph"/>
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ShivaanjayNarula&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" height="250em" alt="Repo"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200em" alt="Shivaanjay's GitHub Stats"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true" height="200em" alt="Streak"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Commitments"/>
-</div>
-<div align="center">
-  <img align = "center" src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" alt="Trophies"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Stats"/>
+      </td>
+      <td align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Commit Languages"/>
+      </td>
+      <td align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Repo Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="200em" alt="Time Graph"/>
+      </td>
+      <td align="center">
+        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ShivaanjayNarula&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" height="250em" alt="Repo"/>
+      </td>
+      <td align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200em" alt="Shivaanjay's GitHub Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true" height="200em" alt="Streak"/>
+      </td>
+      <td align="center" colspan="2">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Commitments"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" alt="Trophies"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 #
