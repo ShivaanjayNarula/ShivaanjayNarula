@@ -30,7 +30,7 @@ Instagram:     https://www.instagram.com/shivaanjaynarula/
 X:             https://x.com/shivanjaynarula/
 
 # 💻 Tech Stack:
-
+<div align="center">
 <table>
   <tr>
     <td align="center"><a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a></td>
@@ -157,41 +157,39 @@ X:             https://x.com/shivanjaynarula/
   <table>
     <tr>
       <td align="center">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Stats"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Stats"/>
       </td>
       <td align="center">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Commit Languages"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Commit Languages"/>
       </td>
       <td align="center">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Repo Languages"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="200em" alt="Time Graph"/>
-      </td>
-      <td align="center">
-        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ShivaanjayNarula&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" height="250em" alt="Repo"/>
-      </td>
-      <td align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200em" alt="Shivaanjay's GitHub Stats"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" alt="Most Repo Languages"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true" height="200em" alt="Streak"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="200em" alt="Time Graph"/>
       </td>
       <td align="center" colspan="2">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Commitments"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200em" alt="GitHub Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true" height="200em" alt="Streak"/>
+      </td>
+      <td align="center" colspan="2">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Commitments"/>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="3">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" alt="Trophies"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 #
@@ -226,7 +224,6 @@ X:             https://x.com/shivanjaynarula/
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShivaanjayNarula&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-
 ### Thanks for stopping by! I’m always open to collaborating on exciting projects. Feel free to reach out!
 
 <!--
