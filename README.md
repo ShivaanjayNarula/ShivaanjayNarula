@@ -1,25 +1,45 @@
-# 👋 Hi, I am Shivaanjay Narula!
+<h1 align="center">👋 Hi, I am Shivaanjay Narula!</h1>
 
+<p>
 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
+</p>
 
+<p>
 I'm currently learning Data Structures and Algorithms in C++.
+</p>
 
+<p>
 I aspire to become a proficient and innovative software engineer, constantly learning and adapting to the latest technological advancements.
+</p>
 
+<p>
 I am also working in the development of AI
+</p>
 
-# 🛠️ What I Do
+<br>
+<h1 align="center">🛠️ What I Do</h1>
+
+<p>
 I have a strong interest in:
+</p>
 
-**C++ Development:** From creating system-level projects to exploring memory-efficient solutions.
+<p>
+<strong>C++ Development:</strong> From creating system-level projects to exploring memory-efficient solutions.
+</p>
 
-**Data Structures and Algorithms:** With over 900 solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
+<p>
+<strong>Data Structures and Algorithms:</strong> With over 900 solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
+</p>
 
-**Text Processing & Utilities:** Working on utilities that enhance document editing.
+<p>
+<strong>Text Processing & Utilities:</strong> Working on utilities that enhance document editing.
+</p>
 
-**Non-profit Healthcare IT Systems:** I also manage tech systems in a non-profit that provides healthcare to the homeless.
-
-# 🤝 Connect with Me
+<p>
+<strong>Non-profit Healthcare IT Systems:</strong> I also manage tech systems in a non-profit that provides healthcare to the homeless.
+</p>
+<br>
+<h1 align="center">🤝 Connect with Me</h1>
 
 Email:         shivaanjaynarula@gmail.com
 
@@ -29,7 +49,8 @@ Instagram:     https://www.instagram.com/shivaanjaynarula/
 
 X:             https://x.com/shivanjaynarula/
 
-# 💻 Tech Stack:
+<br>
+<h1 align="center">💻 Tech Stack:</h1>
 <div align="center">
 <table>
   <tr>
@@ -82,8 +103,8 @@ X:             https://x.com/shivanjaynarula/
 </div>
 -->
 
-
-# 🌐 Socials:
+<br>
+<h1 align="canter">🌐 Socials:</h1>
 <div>
   <table>
     <tr>
@@ -151,8 +172,8 @@ X:             https://x.com/shivanjaynarula/
 </div>
 
 
-
-# 📊 GitHub Stats:
+<br>
+<h1 align="center">📊 GitHub Stats:</h1>
 <div align="center">
   <table>
     <tr>
@@ -224,7 +245,7 @@ X:             https://x.com/shivanjaynarula/
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShivaanjayNarula&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-### Thanks for stopping by! I’m always open to collaborating on exciting projects. Feel free to reach out!
+<h3 align="center">Thanks for stopping by! I’m always open to collaborating on exciting projects. Feel free to reach out!</h3>
 
 <!--
 **Shivaanjay/Shivaanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
