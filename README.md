@@ -33,36 +33,36 @@ X:             https://x.com/shivanjaynarula/
 
 <table>
   <tr>
-    <td><a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a></td>
-    <td><a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a></td>
-    <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a></td>
-    <td><a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"></a></td>
-    <td><a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"></a></td>
-    <td><a href="https://mlflow.org/"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLflow"></a></td>
+    <td align="center"><a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a></td>
+    <td align="center"><a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a></td>
+    <td align="center"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a></td>
+    <td align="center"><a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"></a></td>
+    <td align="center"><a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"></a></td>
+    <td align="center"><a href="https://mlflow.org/"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLflow"></a></td>
   </tr>
   <tr>
-    <td><a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a></td>
-    <td><a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a></td>
-    <td><a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a></td>
-    <td><a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></a></td>
-    <td><a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a></td>
-    <td><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a></td>
+    <td align="center"><a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a></td>
+    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a></td>
+    <td align="center"><a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a></td>
+    <td align="center"><a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></a></td>
+    <td align="center"><a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a></td>
+    <td align="center"><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a></td>
-    <td><a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a></td>
-    <td><a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"></a></td>
-    <td><a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a></td>
-    <td><a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a></td>
+    <td align="center"><a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a></td>
+    <td align="center"><a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a></td>
+    <td align="center"><a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"></a></td>
+    <td align="center"><a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a></td>
+    <td align="center"><a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"></a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a></td>
-    <td><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a></td>
-    <td><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
-    <td><a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a></td>
-    <td></td>
-    <td></td>
+    <td align="center"><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
+    <td align="center"><a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -84,7 +84,73 @@ X:             https://x.com/shivanjaynarula/
 
 
 # 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaanjaynarula/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ShivaanjayNarula/) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Shivaanjay) [![GeekForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shivaanjaynarula/) [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21311617/shivaanjay-narula) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shivanjaynarula) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivaanjaynarula/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shivaanjaynarula) [![Scholar](https://img.shields.io/badge/GoogleScholar-FFFC00?style=for-the-badge&logo=Scholar&logoColor=white)](https://scholar.google.com/citations?user=lmfFJT4AAAAJ&hl=en)
+<div>
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/shivaanjaynarula/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://leetcode.com/u/ShivaanjayNarula/">
+          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://codeforces.com/profile/Shivaanjay">
+          <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.geeksforgeeks.org/user/shivaanjaynarula/">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://stackoverflow.com/users/21311617/shivaanjay-narula">
+          <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://x.com/shivanjaynarula">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.instagram.com/shivaanjaynarula/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.youtube.com/@shivaanjaynarula">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://scholar.google.com/citations?user=lmfFJT4AAAAJ&hl=en">
+          <img src="https://img.shields.io/badge/GoogleScholar-FFFC00?style=for-the-badge&logo=Scholar&logoColor=white" alt="Google Scholar">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <!-- Placeholder for a true cell -->
+        <img src="" alt="">
+      </td>
+      <td align="center" style="padding: 10px;">
+        <!-- Placeholder for a true cell -->
+        <img src="" alt="">
+      </td>
+      <td align="center" style="padding: 10px;">
+        <!-- Placeholder for a true cell -->
+        <img src="" alt="">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -121,11 +187,12 @@ X:             https://x.com/shivanjaynarula/
     </tr>
     <tr>
       <td align="center" colspan="3">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" alt="Trophies"/>
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" alt="Trophies"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 #
 <!--
