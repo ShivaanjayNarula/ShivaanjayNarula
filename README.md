@@ -134,12 +134,17 @@ X:             https://x.com/shivanjaynarula/
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://x.com/shivanjaynarula">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        <a href="https://medium.com/@shivaanjaynarula">
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
         </a>
       </td>
     </tr>
     <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://x.com/shivanjaynarula">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+      </td>
       <td align="center" style="padding: 10px;">
         <a href="https://www.instagram.com/shivaanjaynarula/">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -163,13 +168,10 @@ X:             https://x.com/shivanjaynarula/
         <!-- Placeholder for a true cell -->
         <img src="" alt="">
       </td>
-      <td align="center" style="padding: 10px;">
-        <!-- Placeholder for a true cell -->
-        <img src="" alt="">
-      </td>
     </tr>
   </table>
 </div>
+
 
 
 <br>
