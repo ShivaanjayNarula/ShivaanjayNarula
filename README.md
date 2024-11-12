@@ -28,7 +28,7 @@ I have a strong interest in:
 </p>
 
 <p>
-<strong>Data Structures and Algorithms:</strong> With over 900 solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
+<strong>Data Structures and Algorithms:</strong> With over 1000 solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
 </p>
 
 <p>
