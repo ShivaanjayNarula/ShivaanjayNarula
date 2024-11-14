@@ -199,7 +199,7 @@ X:             https://x.com/shivanjaynarula/
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&show_icons=true&locale=en&theme=transparent&hide_border=true" height="200em" alt="Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200em" alt="Streak"/>
       </td>
       <td align="center" colspan="2">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" alt="Commitments"/>
