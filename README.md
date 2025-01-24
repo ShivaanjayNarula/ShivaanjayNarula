@@ -235,11 +235,11 @@ X:             https://x.com/shivanjaynarula/
   <img src="https://memer-new.vercel.app/api?type=horizontal&theme=transparent" height="200em" alt="Meme">
 </div>
 -->
-<div align="right">
+<!-- <div align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ShivaanjayNarula&label=Profile%20Views&color=1&icon=0&pretty=false" height="35em" alt="Profile Visit Count"/>
   </a>
-</div>
+</div> -->
 
 
 
