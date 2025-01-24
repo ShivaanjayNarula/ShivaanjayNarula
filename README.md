@@ -191,10 +191,10 @@ X:             https://x.com/shivanjaynarula/
     </tr>
     <tr>
       <td align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30" height="200em" alt="Time Graph"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30&include_all_commits=true&count_private=true" height="200em" alt="Time Graph"/>
       </td>
       <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200em" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShivaanjayNarula&theme=transparent&include_all_commits=true&utcOffset=5.30&include_all_commits=true&count_private=true" height="200em" alt="GitHub Stats"/>
       </td>
     </tr>
     <tr>
