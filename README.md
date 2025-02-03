@@ -161,6 +161,11 @@ X:             https://x.com/shivanjaynarula/
         </a>
       </td>
       <td align="center" style="padding: 10px;">
+        <a href="https://www.kaggle.com/shivaanjaynarula">
+          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
         <!-- Placeholder for a true cell -->
         <img src="" alt="">
       </td>
