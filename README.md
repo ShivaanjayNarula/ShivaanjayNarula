@@ -24,11 +24,11 @@ I have a strong interest in:
 </p>
 
 <p>
-<strong>C++ Development:</strong> From creating system-level projects to exploring memory-efficient solutions.
+<strong>Data Structures and Algorithms:</strong> With over 1300+ solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
 </p>
 
 <p>
-<strong>Data Structures and Algorithms:</strong> With over 1300+ solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
+<strong>Low Level Development:</strong> From creating system-level projects to exploring memory-efficient solutions.
 </p>
 
 <p>
