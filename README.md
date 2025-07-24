@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I am Shivaanjay Narula!</h1>
 
 <p>
-I'm a pre-final year Computer Science Engineering student at Chitkara University, Punjab.
+I'm a final year Computer Science Engineering student at Chitkara University, Punjab.
 </p>
 
 <p>
