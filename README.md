@@ -5,7 +5,7 @@ I'm a final year Computer Science Engineering student at Chitkara University, Pu
 </p>
 
 <p>
-I'm currently learning Data Structures and Algorithms in C++.
+I am a developer with interests in competitive programming, open source, software development, and cybersecurity.
 </p>
 
 <p>
