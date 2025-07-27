@@ -5,7 +5,7 @@ I'm a final year Computer Science Engineering student at Chitkara University, Pu
 </p>
 
 <p>
-I am a developer with interests in Competitive Programming, Open Source, Software Sevelopment, and Cyber Security.
+I am a developer with interests in Competitive Programming, Open Source, Software Development, and Cyber Security.
 </p>
 
 <p>
