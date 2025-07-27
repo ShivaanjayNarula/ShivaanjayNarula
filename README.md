@@ -258,6 +258,8 @@ X:             https://x.com/shivanjaynarula/
 -->
 <h3 align="center">Thanks for stopping by! I’m always open to collaborating on exciting projects. Feel free to reach out!</h3>
 
+![](https://komarev.com/ghpvc/?username=ShivaanjayNarula&base=1000&color=blue)<br>
+
 <!--
 **Shivaanjay/Shivaanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
