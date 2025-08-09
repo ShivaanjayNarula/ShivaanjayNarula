@@ -109,7 +109,7 @@ X:             https://x.com/shivanjaynarula/
 
 
 <br>
-<h1 align="canter">🌐 Socials:</h1>
+<h1 align="center">🌐 Socials:</h1>
 <div>
   <table>
     <tr>
