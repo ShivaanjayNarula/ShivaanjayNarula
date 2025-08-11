@@ -13,7 +13,7 @@ I aspire to become a proficient and innovative software engineer, constantly lea
 </p>
 
 <p>
-I am also working in the development of AI
+I am also working in the field of AI
 </p>
 
 <br>
