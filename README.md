@@ -20,10 +20,6 @@ I am also working in the field of AI
 <h1 align="center">🛠️ What I Do</h1>
 
 <p>
-I have a strong interest in:
-</p>
-
-<p>
 <strong>Data Structures and Algorithms:</strong> With over 1400+ solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
 </p>
 
