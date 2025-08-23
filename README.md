@@ -13,7 +13,11 @@ I aspire to become a proficient and innovative software engineer, constantly lea
 </p>
 
 <p>
-I am also working in the field of AI
+I am quite active on CNFC community.
+</p>
+
+<p>
+I am also working in the field of AI.
 </p>
 
 <br>
