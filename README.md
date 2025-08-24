@@ -217,7 +217,8 @@ X:             https://x.com/shivanjaynarula/
     </tr>
     <tr>
       <td align="center" colspan="3">
-        <img src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/>
+<!--         <img src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/> -->
+        <img src="https://trophygh.kolioaris.xyz/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/>
       </td>
     </tr>
   </table>
