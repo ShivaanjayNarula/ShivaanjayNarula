@@ -32,7 +32,7 @@
 </p>
 
 <p>
-<strong>🏥 Non-profit Healthcare IT Systems:</strong> Managing tech systems 🏥 in a non-profit that provides healthcare to the homeless 🤲.
+<strong>🏥 Non-profit Healthcare IT Systems:</strong> Managing tech systems 🏥 in a non-profit 🤲.
 </p>
 <br>
 <h1 align="center">🤝 Connect with Me</h1>
