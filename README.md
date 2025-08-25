@@ -1,23 +1,19 @@
 <h1 align="center">👋 Hi, I am Shivaanjay Narula!</h1>
 
 <p>
-I'm a final year Computer Science Engineering student at Chitkara University, Punjab.
+💻 Developer with interests in Competitive Programming 🏆, Open Source 🌍, Software Development ⚡, and Cyber Security 🔐
 </p>
 
 <p>
-I am a developer with interests in Competitive Programming, Open Source, Software Development, and Cyber Security.
+🚀 Aspiring to become a proficient and innovative Software Engineer, constantly learning 📚 and adapting to the latest tech advancements ⚙️
 </p>
 
 <p>
-I aspire to become a proficient and innovative software engineer, constantly learning and adapting to the latest technological advancements.
+🤝 Quite active on the CNFC community 🌐
 </p>
 
 <p>
-I am quite active on CNFC community.
-</p>
-
-<p>
-I am also working in the field of AI.
+🤖 Currently working in the field of Artificial Intelligence (AI) 🧠
 </p>
 
 <br>
