@@ -20,19 +20,19 @@
 <h1 align="center">🛠️ What I Do</h1>
 
 <p>
-<strong>📊 Data Structures and Algorithms:</strong> With over 1400+ solved problems on LeetCode 🏆, I enjoy optimizing algorithms ⚡ and problem-solving 🧩.
+<strong>📊 Data Structures and Algorithms:</strong> With over 1400+ solved problems on LeetCode 🏆, I enjoy optimizing algorithms ⚡ and problem-solving 🧩
 </p>
 
 <p>
-<strong>⚙️ Low Level Development:</strong> From creating system-level projects 🖥️ to exploring memory-efficient solutions 🧮.
+<strong>⚙️ Low Level Development:</strong> From creating system-level projects 🖥️ to exploring memory-efficient solutions 🧮
 </p>
 
 <p>
-<strong>❤️ Text Processing & Utilities:</strong> Building utilities that enhance document editing ✍️.
+<strong>❤️ Text Processing & Utilities:</strong> Building utilities that enhance document editing ✍️
 </p>
 
 <p>
-<strong>🏥 Non-profit Healthcare IT Systems:</strong> Managing tech systems 🏥 in a non-profit 🤲.
+<strong>🏥 Non-profit Healthcare IT Systems:</strong> Managing tech systems 🏥 in a non-profit 🤲
 </p>
 <br>
 <h1 align="center">🤝 Connect with Me</h1>
