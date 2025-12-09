@@ -20,7 +20,7 @@ I am currently also working in the field of Artificial Intelligence.
 <h1 align="center">🛠️ What I Do</h1>
 
 <p>
-<strong>Data Structures and Algorithms:</strong> With over 1500+ solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
+<strong>Data Structures and Algorithms:</strong> With over 1600+ solved problems on LeetCode, I enjoy optimizing algorithms and problem-solving.
 </p>
 
 <p>
