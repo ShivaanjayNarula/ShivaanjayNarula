@@ -120,7 +120,7 @@ X:             https://x.com/shivanjaynarula/
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://codeforces.com/profile/Shivaanjay">
+        <a href="https://codeforces.com/profile/ShivaanjayNarula">
           <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
         </a>
       </td>
