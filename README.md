@@ -4,9 +4,9 @@
 I am a Software Developer with interests in Competitive Programming, Open Source, Software Development, and Cyber Security.
 </p>
 
-<p>
+<!-- <p>
 I am aspiring to become a proficient and innovative Software Engineer, constantly learning and adapting to the latest tech advancements.
-</p>
+</p> -->
 
 <p>
 I am quite active on the CNFC community.
