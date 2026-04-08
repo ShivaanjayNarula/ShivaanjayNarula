@@ -182,7 +182,7 @@ X:             https://x.com/shivanjaynarula/
 
 <br>
 <h1 align="center">📊 GitHub Stats:</h1>
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td align="center">
@@ -214,11 +214,45 @@ X:             https://x.com/shivanjaynarula/
     <tr>
       <td align="center" colspan="3">
         <!-- <img src="https://github-profile-trophy.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/> -->
-        <img src="https://trophygh.kolioaris.xyz/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/>
+        <!-- <img src="https://trophygh.kolioaris.xyz/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/> -->
         <!-- <img src=https://github-profile-trophy-fork-two.vercel.app/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" alt="Trophies"/> -->
-      </td>
+      <!-- </td>
     </tr>
   </table>
+</div> -->
+
+<div align="center">
+
+  <!-- Row 1 (3 images) -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" style="border:1px solid #444; border-radius:8px;" />
+  </div>
+
+  <br/>
+
+  <!-- Row 2 (2 images) -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30&include_all_commits=true&count_private=false" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ShivaanjayNarula&include_all_commits=true&theme=transparent" height="200em" style="border:1px solid #444; border-radius:8px;" />
+  </div>
+
+  <br/>
+
+  <!-- Row 3 (2 images) -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaanjayNarula&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaanjayNarula&theme=transparent" height="200em" style="border:1px solid #444; border-radius:8px;" />
+  </div>
+
+  <br/>
+
+  <!-- Row 4 (1 image) -->
+  <div>
+    <img src="https://trophygh.kolioaris.xyz/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" style="border:1px solid #444; border-radius:8px;" />
+  </div>
+
 </div>
 
 
