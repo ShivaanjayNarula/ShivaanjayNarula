@@ -225,7 +225,7 @@ X:             https://x.com/shivanjaynarula/
 
   <!-- Row 1 (3 images) -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" style="border:1px solid #444; border-radius:8px;" /> -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" style="border:1px solid #444; border-radius:8px;" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" style="border:1px solid #444; border-radius:8px;" />
   </div>
