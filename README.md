@@ -250,7 +250,7 @@ X:             https://x.com/shivanjaynarula/
 
   <!-- Row 4 (1 image) -->
   <div>
-    <img src="https://github-profile-trophy.vercel.app?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="https://trophygh.kolioaris.xyz/?username=ShivaanjayNarula&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" height="400em" style="border:1px solid #444; border-radius:8px;" />
   </div>
 
 </div>
