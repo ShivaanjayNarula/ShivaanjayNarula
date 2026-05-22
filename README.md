@@ -226,15 +226,15 @@ X:             https://x.com/shivanjaynarula/
   <!-- Row 1 (3 images) -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaanjayNarula&theme=transparent" height="200em" style="border:1px solid #444; border-radius:8px;" /> -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" style="border:1px solid #444; border-radius:8px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook,SQL" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaanjayNarula&theme=transparent&exclude=html,CSS,Jupyter%20Notebook,SQL" height="200em" style="border:1px solid #444; border-radius:8px;" />
   </div>
 
   <br/>
 
   <!-- Row 2 (2 images) -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30&include_all_commits=true&count_private=false&SQL-HackerRank" height="200em" style="border:1px solid #444; border-radius:8px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaanjayNarula&theme=transparent&utcOffset=5.30&include_all_commits=true&count_private=false" height="200em" style="border:1px solid #444; border-radius:8px;" />
     <img src="https://github-stats-extended.vercel.app/api?username=ShivaanjayNarula&include_all_commits=true&theme=transparent&hide_border=true" height="200em" style="border:1px solid #444; border-radius:8px;" />
   </div>
 
